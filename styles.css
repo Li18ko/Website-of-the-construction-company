@@ -200,8 +200,8 @@ main {
 }
 
 .center_img_center {
-    flex: 25%;
-    width: 25%;
+    flex: 23%;
+    width: 23%;
 }
 
 .center_img_center_up {
@@ -227,32 +227,38 @@ main {
 
 
 .center_img_right {
-    flex: 40%;
-    margin-left: 20px;
-    height: 715px;
+    flex: 42%;
+    width: 42%;
+    margin-left: 15px;
+    height: 655px;
     display: flex;
     flex-direction: column;
 }
 
 .center_img_right_up{
-    height: 500px;
+    height: 450px;
     display: flex;
+    margin-bottom: 20px;
 }
 
 .center_img_right_up_left{
     flex: calc(20% - 15px);
-    margin-right: 20px;
+    margin-right: 15px;
+}
+
+.center_img_right_up_left img{
+    height: 450px;
 }
 
 .center_img_right_up_right{
     flex: calc(80% - 15px);
-    display: flex;
     flex-direction: column;
 }
 
 .center_img_right_up_right_up {
     display: flex;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
+    height: 170px;
 }
 
 .center_img_right_up_right_up_left {
@@ -260,13 +266,13 @@ main {
 }
 
 .center_img_right_up_right_up_left p {
-    height: 145px;
-    width: calc(100% - 40px);
+    height: 150px;
+    width: calc(100% - 20px);
     font-size: 14px; 
     font-weight: 400;
     background-color: #FFFFFF;
     color: #000000;
-    padding: 20px;
+    padding: 10px;
     margin: 0;
 }
 
@@ -275,7 +281,58 @@ main {
 }
 
 .center_img_right_up_right_up_right img {
-    width: calc(100% - 20px);
+    width: calc(100% - 15px);
+    height: 170px;
+    margin-left: 15px;
+}
+
+
+.center_img_right_up_right_center{
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.center_img_right_up_right_center img{
+    width: 100%;
+    height: 100%;
+}
+
+.center_img_right_up_right_bottom{
+    margin-bottom: 20px;
+    height: 180px;
+}
+
+.center_img_right_up_right_bottom img{
+    width: 100%;
+    height: 100%;
+}
+
+.center_img_right_bottom{
     height: 185px;
-    margin-left: 20px;
+    display: flex;
+}
+
+.center_img_right_bottom_left {
+    flex: 65%;
+}
+
+.center_img_right_bottom_left p {
+    height: 165px;
+    width: calc(100% - 20px);
+    font-size: 14px; 
+    font-weight: 400;
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 10px;
+    margin: 0;
+}
+
+.center_img_right_bottom_right {
+    flex: 35%;
+}
+
+.center_img_right_bottom_right img {
+    width: calc(100% - 15px);
+    height: 185px;
+    margin-left: 15px;
 }
