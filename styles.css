@@ -118,25 +118,24 @@ main {
 
 .center_img_left_up_left {
     flex: calc(100% - 15px);  
+    margin-right: 15px;
 }
 
 .center_img_left_up_left p {
-    width: calc(100% - 40px);
+    width: calc(100% - 20px);
     height: 135px;
     font-size: 14px; 
     font-weight: 400;
     background-color: #FFFFFF;
     color: #000000;
     padding: 10px;
-    margin-right: 15px;
-    margin-bottom: 20px;
-    margin-top: 0px ;
+    margin: 0;
 }
 
 .center_img_left_up_left img {
-    width: calc(100% - 15px);
+    width: 100%;
     height: 75px;
-    margin-right: 15px;
+    margin-top: 20px;
 }
 
 .center_img_left_up_right{
@@ -248,6 +247,7 @@ main {
 
 .center_img_right_up_left img{
     height: 450px;
+    width: 100%;
 }
 
 .center_img_right_up_right{
@@ -335,4 +335,88 @@ main {
     width: calc(100% - 15px);
     height: 185px;
     margin-left: 15px;
+}
+
+.thankYouLetters{
+    margin-bottom: 130px;
+}
+
+.thankYouLetters h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.thankYouLettersImage {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.thankYouLettersImage img {
+    flex: 1;
+    margin: 0 5px; 
+    max-width: calc((100% - 40px) / 5); 
+    align-self: stretch;
+}
+
+.thankYouLettersImage img:first-child {
+    margin-left: 0;
+}
+
+.thankYouLettersImage img:last-child {
+    margin-right: 0;
+}
+
+.weAreBuilding h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.weAreBuildingDataListLeftUp p, .weAreBuildingDataListLeftUp li,
+.weAreBuildingDataListLeftBottom p, .weAreBuildingDataListLeftBottom li,
+.weAreBuildingDataListRightUp p, .weAreBuildingDataListRightUp li,
+.weAreBuildingDataListRightCenter p, .weAreBuildingDataListRightCenter li,
+.weAreBuildingDataListRightBottom p, .weAreBuildingDataListRightBottom li {
+    color:#FFFFFF;
+    font-size: 14px; 
+    font-weight: 500;
+    margin: 0;
+}
+
+.weAreBuildingDataListLeftUp li, .weAreBuildingDataListLeftBottom li,
+.weAreBuildingDataListRightUp li, .weAreBuildingDataListRightCenter li,
+.weAreBuildingDataListRightBottom li {
+    margin-left: 5px;
+}
+
+.weAreBuildingDataListRightUp, .weAreBuildingDataListRightCenter,
+.weAreBuildingDataListRightBottom {
+    margin-left: 25px;
+}
+
+
+.weAreBuildingDataListLeftUp, .weAreBuildingDataListRightUp, .weAreBuildingDataListRightCenter{
+    margin-bottom: 35px;
+}
+
+
+.weAreBuildingData{
+    display: flex;
+}
+
+.weAreBuildingDataList, .weAreBuildingDataImage{
+    flex: 1;
+}
+
+.weAreBuildingDataList {
+    display: flex;
+}
+
+.weAreBuildingDataListLeft, .weAreBuildingDataListRight{
+    flex: 1;
 }
