@@ -369,6 +369,10 @@ main {
     margin-right: 0;
 }
 
+.weAreBuilding{
+    margin-bottom: 105px;
+}
+
 .weAreBuilding h1{
     color:#FFFFFF;
     font-size: 28px; 
@@ -383,7 +387,7 @@ main {
 .weAreBuildingDataListRightCenter p, .weAreBuildingDataListRightCenter li,
 .weAreBuildingDataListRightBottom p, .weAreBuildingDataListRightBottom li {
     color:#FFFFFF;
-    font-size: 14px; 
+    font-size: 12px; 
     font-weight: 500;
     margin: 0;
 }
@@ -394,14 +398,26 @@ main {
     margin-left: 5px;
 }
 
-.weAreBuildingDataListRightUp, .weAreBuildingDataListRightCenter,
-.weAreBuildingDataListRightBottom {
-    margin-left: 25px;
+.weAreBweAreBuildingDataListRight {
+    float: right;
 }
 
 
-.weAreBuildingDataListLeftUp, .weAreBuildingDataListRightUp, .weAreBuildingDataListRightCenter{
+.weAreBuildingDataListLeftUp{
     margin-bottom: 35px;
+}
+
+.weAreBuildingDataListRightUp{
+    margin-bottom: 30.4px;
+}
+
+.weAreBuildingDataListRightCenter{
+    margin-bottom: 35px;
+}
+
+.red {
+    list-style-type: none;
+    padding-left: 17.6px;
 }
 
 
@@ -419,4 +435,66 @@ main {
 
 .weAreBuildingDataListLeft, .weAreBuildingDataListRight{
     flex: 1;
+}
+
+.weAreBuildingDataImage{
+    height: 380px;
+    display: flex;
+}
+
+.weAreBuildingDataImageLeft, .weAreBuildingDataImageRight{
+    flex: calc(100% - 10px);
+    display: flex;
+    flex-direction: column;
+}
+ 
+.weAreBuildingDataImageLeft{
+    margin-right: 20px;
+}
+
+.weAreBuildingDataImageLeftUp{
+    flex: calc(100% - 220px - 25px);
+    height: calc(100% - 220px - 25px);
+    margin-bottom: 25px;
+}
+
+.weAreBuildingDataImageLeftUp img{
+    height: 100%;
+    width: 100%;
+}
+
+.weAreBuildingDataImageLeftBottom{
+    flex: calc(100% - 135px - 25px);
+    height: calc(100% - 135px - 25px);
+}
+
+.weAreBuildingDataImageLeftBottom img{
+    height: 100%;
+    width: 100%;
+}
+
+.weAreBuildingDataImageRightUp{
+    flex: calc(100% - 135px - 25px);
+    height: calc(100% - 135px - 25px);
+    margin-bottom: 25px;
+}
+
+.weAreBuildingDataImageRightUp img{
+    height: 100%;
+    width: 100%;
+}
+
+.weAreBuildingDataImageRightBottom{
+    flex: calc(100% - 220px - 25px);
+    height: calc(100% - 220px - 25px);
+}
+
+.weAreBuildingDataImageRightBottom img{
+    height: 100%;
+    width: 100%;
+}
+
+footer{
+    height: 160px;
+    background-color: #3D3D3D;
 }
