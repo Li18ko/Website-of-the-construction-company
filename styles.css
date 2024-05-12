@@ -656,3 +656,49 @@ footer{
 .jobOpenings_Data_left_up, .jobOpenings_Data_right_up{
     margin-bottom: 25px;
 }
+
+.designing {
+    margin-top: 65px;
+    margin-bottom: 70px;
+}
+
+.designing_up{
+    margin-bottom: 40px;
+}
+
+.designing_up img{
+    width: 100%;
+    height: auto;
+}
+
+.designing_bottom{
+    display: flex;
+}
+
+.designing_bottom_left, .designing_bottom_right{
+    flex: 1 ;
+}
+
+.designing_bottom_left p{
+    color: #FFFFFF;
+    font-size: 12px; 
+    font-weight: 400;
+    margin: 0 auto;
+}
+
+.designing_bottom_right {
+    display: flex;
+}
+
+.designing_bottom_right_left {
+    flex: 60%;
+}
+
+.designing_bottom_right_right {
+    flex: 40%;
+}
+
+.designing_bottom_right_left img, .designing_bottom_right_right img{
+    width: 100%;
+    height: 100%;
+}
