@@ -583,10 +583,76 @@ footer{
     color: #FFFFFF;
     font-size: 16px; 
     font-weight: 600;
+    margin: 0 auto 25px;
 }
 
 .contacts_up_left_bottom p {
     color: #FFFFFF;
     font-size: 12px; 
     font-weight: 500;
+    margin: 0 auto;
+}
+
+
+.contacts_up_left_bottom{
+    display: flex;
+}
+
+.contacts_up_left_bottom_left{
+    flex: 40%;
+}
+
+.contacts_up_left_bottom_right{
+    flex: 60%;
+    margin-top: 30.4px;
+}
+
+.contacts_up_right{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.contacts_up_right img{
+    flex: 1;
+    margin: 0 25px; 
+    max-width: calc((100% - 150px) / 3); 
+    align-self: stretch;
+}
+
+.jobOpenings h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.jobOpenings_Data{
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.jobOpenings_Data_left{
+    flex: 35%;
+}
+
+.jobOpenings_Data_right{
+    flex: 65%;
+}
+
+.jobOpenings_Data_left_up p, .jobOpenings_Data_right_up p, 
+.jobOpenings_Data_right_bottom p, .jobOpenings_Data_left_up li,
+.jobOpenings_Data_left_bottom p, .jobOpenings_Data_left_bottom li{
+    color:#FFFFFF;
+    font-size: 12px; 
+    font-weight: 500;
+    margin: 0;
+}
+
+.jobOpenings_Data_left_up li, .jobOpenings_Data_left_bottom li{
+    margin-left: 5px;
+}
+
+.jobOpenings_Data_left_up, .jobOpenings_Data_right_up{
+    margin-bottom: 25px;
 }
