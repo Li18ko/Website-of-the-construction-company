@@ -13,28 +13,7 @@
   </head>
 
   <body>
-    <header>
-        <div class="black">
-            <div class="left"> 
-                <img src="/image/Group 3.svg" alt="Логотип">
-            </div>
-            <div class="center">
-                <a>Строительство</a>
-                <a>Проектирование</a>
-                <a>Контакты</a>
-            </div>
-            <div class="right">
-              <p>
-                +7 (4912) 99-43-34
-                zakaz@geomtsk.ru
-              </p>
-            </div>
-        </div>
-        <div class="grey">
-
-        </div>
-    </header>
-
+    <?php include 'header.html'; ?>
     <main>
       <div class="image">
         <div class="image1">
@@ -215,11 +194,7 @@
         </div>
       </div>
     </main>
-
-    <footer>
-      
-    </footer>
-
+    <?php include 'footer.html'; ?>
   </body>
 
 </html>
