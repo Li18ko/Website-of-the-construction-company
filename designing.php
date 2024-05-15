@@ -46,7 +46,7 @@
                     <div class="designing_bottom_right_left">
                         <img src="image/image 59.png">
                     </div>
-                    <<div class="designing_bottom_right_right">
+                    <div class="designing_bottom_right_right">
                         <img src="image/image 79.png">
                     </div>
                 </div>
@@ -54,6 +54,7 @@
         </div>
     </main>
     <?php include 'footer.html'; ?>
+    <script src="script.js"></script>
   </body>
 
 </html>

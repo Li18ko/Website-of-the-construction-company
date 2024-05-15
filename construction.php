@@ -67,7 +67,7 @@
                 
                 </div>
                 <div class="constructionAndInstallationWorks_right">
-                    <img src="image/image 14.png">
+                    <img src="image/image 14.png" loading="lazy">
                 </div>
             </div>
 
@@ -170,222 +170,222 @@
                 <div class="FoundationWorks">
                     <h1>Фундаментные работы</h1>
                     <div class="FoundationWorksImage">
-                        <img src="/image/image 18.png" alt="Картинка стройки">
-                        <img src="/image/image 19.png" alt="Картинка стройки">
-                        <img src="/image/image 20.png" alt="Картинка стройки">
-                        <img src="/image/image 21.png" alt="Картинка стройки">
-                        <img src="/image/image 22.png" alt="Картинка стройки">
-                        <img src="/image/image 23.png" alt="Картинка стройки">
-                        <img src="/image/image 24.png" alt="Картинка стройки">
-                        <img src="/image/image 25.png" alt="Картинка стройки">
-                        <img src="/image/image 26.png" alt="Картинка стройки">
-                        <img src="/image/image 27.png" alt="Картинка стройки">
-                        <img src="/image/image 28.png" alt="Картинка стройки">
-                        <img src="/image/image 29.png" alt="Картинка стройки">
+                        <img src="/image/image 18.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 19.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 20.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 21.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 22.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 23.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 24.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 25.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 26.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 27.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 28.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 29.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="InstallationOfMetalStructures">
                     <h1>Монтаж металлоконструкций</h1>
                     <div class="InstallationOfMetalStructuresImage">
-                        <img src="/image/image 30.png" alt="Картинка стройки">
-                        <img src="/image/image 31.png" alt="Картинка стройки">
-                        <img src="/image/image 32.png" alt="Картинка стройки">
-                        <img src="/image/image 33.png" alt="Картинка стройки">
-                        <img src="/image/image 34.png" alt="Картинка стройки">
-                        <img src="/image/image 49.png" alt="Картинка стройки">
-                        <img src="/image/image 36.png" alt="Картинка стройки">
-                        <img src="/image/image 37.png" alt="Картинка стройки">
-                        <img src="/image/image 38.png" alt="Картинка стройки">
-                        <img src="/image/image 39.png" alt="Картинка стройки">
-                        <img src="/image/image 40.png" alt="Картинка стройки">
-                        <img src="/image/image 41.png" alt="Картинка стройки">
-                        <img src="/image/image 48.png" alt="Картинка стройки">
-                        <img src="/image/image 50.png" alt="Картинка стройки">
-                        <img src="/image/image 53.png" alt="Картинка стройки">
-                        <img src="/image/image 51.png" alt="Картинка стройки">
+                        <img src="/image/image 30.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 31.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 32.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 33.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 34.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 49.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 36.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 37.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 38.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 39.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 40.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 41.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 48.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 50.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 53.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 51.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="InstallationOfMetalStructures">
                     <h1>Изготовление и монтаж силосов, РВС и РГС</h1>
                     <div class="InstallationOfMetalStructuresImage">
-                        <img src="/image/image 46.png" alt="Картинка стройки">
-                        <img src="/image/image 45.png" alt="Картинка стройки">
-                        <img src="/image/image 44.png" alt="Картинка стройки">
-                        <img src="/image/image 47.png" alt="Картинка стройки">
+                        <img src="/image/image 46.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 45.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 44.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 47.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="InstallationOfTanks">
                     <h1>Монтаж резервуаров</h1>
                     <div class="InstallationOfTanksImage">
-                        <img src="/image/image 54.png" alt="Картинка стройки">
-                        <img src="/image/image 55.png" alt="Картинка стройки">
-                        <img src="/image/image 56.png" alt="Картинка стройки">
-                        <img src="/image/image 57.png" alt="Картинка стройки">
-                        <img src="/image/image 58.png" alt="Картинка стройки">
-                        <img src="/image/image 59.png" alt="Картинка стройки">
-                        <img src="/image/image 60.png" alt="Картинка стройки">
-                        <img src="/image/image 61.png" alt="Картинка стройки">
-                        <img src="/image/image 62.png" alt="Картинка стройки">
-                        <img src="/image/image 63.png" alt="Картинка стройки">
-                        <img src="/image/image 64.png" alt="Картинка стройки">
-                        <img src="/image/image 65.png" alt="Картинка стройки">
+                        <img src="/image/image 54.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 55.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 56.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 57.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 58.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 59.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 60.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 61.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 62.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 63.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 64.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 65.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="InstallationOfTechnologicalPipelines">
                     <h1>Монтаж технологических трубопроводов</h1>
                     <div class="InstallationOfTechnologicalPipelinesImage">
-                        <img src="/image/image 66.png" alt="Картинка стройки">
-                        <img src="/image/image 67.png" alt="Картинка стройки">
-                        <img src="/image/image 68.png" alt="Картинка стройки">
-                        <img src="/image/image 69.png" alt="Картинка стройки">
-                        <img src="/image/image 70.png" alt="Картинка стройки">
-                        <img src="/image/image 71.png" alt="Картинка стройки">
-                        <img src="/image/image 72.png" alt="Картинка стройки">
-                        <img src="/image/image 73.png" alt="Картинка стройки">
-                        <img src="/image/image 74.png" alt="Картинка стройки">
-                        <img src="/image/image 75.png" alt="Картинка стройки">
-                        <img src="/image/image 76.png" alt="Картинка стройки">
-                        <img src="/image/image 77.png" alt="Картинка стройки">
-                        <img src="/image/image 78.png" alt="Картинка стройки">
-                        <img src="/image/image 79.png" alt="Картинка стройки">
-                        <img src="/image/image 80.png" alt="Картинка стройки">
-                        <img src="/image/image 81.png" alt="Картинка стройки">
-                        <img src="/image/image 82.png" alt="Картинка стройки">
-                        <img src="/image/image 83.png" alt="Картинка стройки">
-                        <img src="/image/image 84.png" alt="Картинка стройки">
-                        <img src="/image/image 85.png" alt="Картинка стройки">
-                        <img src="/image/image 86.png" alt="Картинка стройки">
-                        <img src="/image/image 87.png" alt="Картинка стройки">
-                        <img src="/image/image 88.png" alt="Картинка стройки">
-                        <img src="/image/image 89.png" alt="Картинка стройки">
+                        <img src="/image/image 66.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 67.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 68.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 69.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 70.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 71.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 72.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 73.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 74.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 75.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 76.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 77.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 78.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 79.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 80.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 81.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 82.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 83.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 84.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 85.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 86.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 87.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 88.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 89.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="FacadeAndExteriorWorks">
                     <h1>Фасадные и наружные работы</h1>
                     <div class="FacadeAndExteriorWorksImage">
-                        <img src="/image/image 90.png" alt="Картинка стройки">
-                        <img src="/image/image 91.png" alt="Картинка стройки">
-                        <img src="/image/image 92.png" alt="Картинка стройки">
-                        <img src="/image/image 93.png" alt="Картинка стройки">
-                        <img src="/image/image 94.png" alt="Картинка стройки">
-                        <img src="/image/image 95.png" alt="Картинка стройки">
-                        <img src="/image/image 96.png" alt="Картинка стройки">
-                        <img src="/image/image 97.png" alt="Картинка стройки">
-                        <img src="/image/image 98.png" alt="Картинка стройки">
-                        <img src="/image/image 99.png" alt="Картинка стройки">
-                        <img src="/image/image 100.png" alt="Картинка стройки">
-                        <img src="/image/image 101.png" alt="Картинка стройки">
-                        <img src="/image/image 102.png" alt="Картинка стройки">
-                        <img src="/image/image 103.png" alt="Картинка стройки">
-                        <img src="/image/image 104.png" alt="Картинка стройки">
-                        <img src="/image/image 105.png" alt="Картинка стройки">
-                        <img src="/image/image 106.png" alt="Картинка стройки">
-                        <img src="/image/image 107.png" alt="Картинка стройки">
-                        <img src="/image/image 108.png" alt="Картинка стройки">
-                        <img src="/image/image 109.png" alt="Картинка стройки">
-                        <img src="/image/image 110.png" alt="Картинка стройки">
-                        <img src="/image/image 111.png" alt="Картинка стройки">
-                        <img src="/image/image 112.png" alt="Картинка стройки">
-                        <img src="/image/image 113.png" alt="Картинка стройки">
+                        <img src="/image/image 90.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 91.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 92.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 93.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 94.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 95.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 96.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 97.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 98.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 99.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 100.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 101.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 102.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 103.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 104.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 105.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 106.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 107.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 108.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 109.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 110.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 111.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 112.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 113.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="RoofingWorks">
                     <h1>Кровельные работы</h1>
                     <div class="RoofingWorksImage">
-                        <img src="/image/image 114.png" alt="Картинка стройки">
-                        <img src="/image/image 115.png" alt="Картинка стройки">
-                        <img src="/image/image 116.png" alt="Картинка стройки">
-                        <img src="/image/image 117.png" alt="Картинка стройки">
-                        <img src="/image/image 118.png" alt="Картинка стройки">
-                        <img src="/image/image 119.png" alt="Картинка стройки">
-                        <img src="/image/image 120.png" alt="Картинка стройки">
-                        <img src="/image/image 121.png" alt="Картинка стройки">
-                        <img src="/image/image 122.png" alt="Картинка стройки">
-                        <img src="/image/image 123.png" alt="Картинка стройки">
-                        <img src="/image/image 124.png" alt="Картинка стройки">
-                        <img src="/image/image 125.png" alt="Картинка стройки">
+                        <img src="/image/image 114.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 115.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 116.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 117.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 118.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 119.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 120.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 121.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 122.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 123.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 124.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 125.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="ReconstructionAndDismantlingWorks">
                     <h1>Реконструкция и демонтажные работы</h1>
                     <div class="ReconstructionAndDismantlingWorksImage">
-                        <img src="/image/image 126.png" alt="Картинка стройки">
-                        <img src="/image/image 127.png" alt="Картинка стройки">
-                        <img src="/image/image 128.png" alt="Картинка стройки">
-                        <img src="/image/image 129.png" alt="Картинка стройки">
-                        <img src="/image/image 130.png" alt="Картинка стройки">
-                        <img src="/image/image 131.png" alt="Картинка стройки">
-                        <img src="/image/image 132.png" alt="Картинка стройки">
-                        <img src="/image/image 133.png" alt="Картинка стройки">
-                        <img src="/image/image 134.png" alt="Картинка стройки">
-                        <img src="/image/image 135.png" alt="Картинка стройки">
-                        <img src="/image/image 136.png" alt="Картинка стройки">
-                        <img src="/image/image 137.png" alt="Картинка стройки">
-                        <img src="/image/image 138.png" alt="Картинка стройки">
-                        <img src="/image/image 139.png" alt="Картинка стройки">
-                        <img src="/image/image 140.png" alt="Картинка стройки">
-                        <img src="/image/image 143.png" alt="Картинка стройки">
+                        <img src="/image/image 126.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 127.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 128.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 129.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 130.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 131.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 132.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 133.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 134.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 135.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 136.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 137.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 138.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 139.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 140.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 143.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="Landscaping">
                     <h1>Благоустройство</h1>
                     <div class="LandscapingImage">
-                        <img src="/image/image 144.png" alt="Картинка стройки">
-                        <img src="/image/image 154.png" alt="Картинка стройки">
-                        <img src="/image/image 146.png" alt="Картинка стройки">
-                        <img src="/image/image 147.png" alt="Картинка стройки">
-                        <img src="/image/image 148.png" alt="Картинка стройки">
-                        <img src="/image/image 149.png" alt="Картинка стройки">
-                        <img src="/image/image 150.png" alt="Картинка стройки">
-                        <img src="/image/image 151.png" alt="Картинка стройки">
+                        <img src="/image/image 144.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 154.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 146.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 147.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 148.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 149.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 150.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 151.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="EngineeringСommunications">
                     <h1>Инженерные коммуникации</h1>
                     <div class="EngineeringСommunicationsImage">
-                        <img src="/image/image 156.png" alt="Картинка стройки">
-                        <img src="/image/image 157.png" alt="Картинка стройки">
-                        <img src="/image/image 158.png" alt="Картинка стройки">
-                        <img src="/image/image 159.png" alt="Картинка стройки">
-                        <img src="/image/image 160.png" alt="Картинка стройки">
-                        <img src="/image/image 161.png" alt="Картинка стройки">
-                        <img src="/image/image 162.png" alt="Картинка стройки">
-                        <img src="/image/image 163.png" alt="Картинка стройки">
-                        <img src="/image/image 164.png" alt="Картинка стройки">
-                        <img src="/image/image 165.png" alt="Картинка стройки">
-                        <img src="/image/image 166.png" alt="Картинка стройки">
-                        <img src="/image/image 167.png" alt="Картинка стройки">
-                        <img src="/image/image 168.png" alt="Картинка стройки">
-                        <img src="/image/image 171.png" alt="Картинка стройки">
-                        <img src="/image/image 172.png" alt="Картинка стройки">
-                        <img src="/image/image 173.png" alt="Картинка стройки">
+                        <img src="/image/image 156.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 157.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 158.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 159.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 160.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 161.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 162.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 163.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 164.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 165.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 166.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 167.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 168.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 171.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 172.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 173.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
                 <div class="FinishingWorks">
                     <h1>Отделочные работы</h1>
                     <div class="FinishingWorksImage">
-                        <img src="/image/image 174.png" alt="Картинка стройки">
-                        <img src="/image/image 175.png" alt="Картинка стройки">
-                        <img src="/image/image 176.png" alt="Картинка стройки">
-                        <img src="/image/image 177.png" alt="Картинка стройки">
-                        <img src="/image/image 178.png" alt="Картинка стройки">
-                        <img src="/image/image 179.png" alt="Картинка стройки">
-                        <img src="/image/image 180.png" alt="Картинка стройки">
-                        <img src="/image/image 181.png" alt="Картинка стройки">
-                        <img src="/image/image 182.png" alt="Картинка стройки">
-                        <img src="/image/image 183.png" alt="Картинка стройки">
-                        <img src="/image/image 184.png" alt="Картинка стройки">
-                        <img src="/image/image 185.png" alt="Картинка стройки">
+                        <img src="/image/image 174.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 175.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 176.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 177.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 178.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 179.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 180.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 181.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 182.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 183.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 184.png" loading="lazy" alt="Картинка стройки">
+                        <img src="/image/image 185.png" loading="lazy" alt="Картинка стройки">
                     </div>
                 </div>
 
@@ -395,25 +395,7 @@
       
     </main>
     <?php include 'footer.html'; ?>
-
-    <script>
-    const toggleLinks = document.querySelectorAll('.toggle-link');
-
-    toggleLinks.forEach(link => {
-        link.addEventListener('click', function(event) {
-            event.preventDefault();
-            const targetId = this.getAttribute('data-target');
-            const targetBlock = document.querySelector('.' + targetId);
-
-            if (targetBlock.style.display === 'none') {
-                targetBlock.style.display = 'block';
-            } else {
-                targetBlock.style.display = 'none';
-            }
-        });
-    });
-    </script>
-
+    <script src="script.js"></script>
 
   </body>
 
