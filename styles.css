@@ -702,3 +702,255 @@ footer{
     width: 100%;
     height: 100%;
 }
+
+.construction {
+    margin-top: 90px;
+    margin-bottom: 105px;
+}
+
+.constructionAndInstallationWorks{
+    display: flex;
+    margin-bottom: 130px;
+}
+
+.constructionAndInstallationWorks_left{
+    flex: 45%;
+}
+
+.constructionAndInstallationWorks_right{
+    flex: 55%;
+    margin-top: 38px;
+}
+
+.constructionAndInstallationWorks_left h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.constructionAndInstallationWorks_left_Data{
+    display: flex;
+}
+
+.constructionAndInstallationWorks_left_Data_left, .constructionAndInstallationWorks_left_Data_right{
+    flex:1;
+}
+
+.constructionAndInstallationWorks_left_Data_left_up p, .constructionAndInstallationWorks_left_Data_left_bottom p,
+.constructionAndInstallationWorks_left_Data_left_up li, .constructionAndInstallationWorks_left_Data_left_bottom li,
+.constructionAndInstallationWorks_left_Data_right_up p, .constructionAndInstallationWorks_left_Data_right_bottom p,
+.constructionAndInstallationWorks_left_Data_right_up li, .constructionAndInstallationWorks_left_Data_right_bottom li{
+    color:#FFFFFF;
+    font-size: 12px; 
+    font-weight: 400;
+    margin: 0;
+}
+
+.constructionAndInstallationWorks_left_Data_right_up{
+    margin-bottom: 105px;
+}
+
+.constructionAndInstallationWorks_left_Data_left_up{
+    margin-bottom: 75px;
+}
+
+.constructionAndInstallationWorks_left_Data_right_up li, .constructionAndInstallationWorks_left_Data_left_up li{
+    margin-left: 5px;
+}
+
+.constructionAndInstallationWorks_right img{
+    width: 100%;
+    height: 100%;
+}
+
+.productionOfMetalStructures h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.productionOfMetalStructures{
+    margin-bottom: 75px;
+}
+
+.productionOfMetalStructures_Data {
+    display: flex;
+}
+
+.productionOfMetalStructures_Data_left,  
+.productionOfMetalStructures_Data_center{
+    flex: 26%;
+}
+
+.productionOfMetalStructures_Data_right{
+    flex: 48%;
+}
+
+.productionOfMetalStructures_Data_left_up p,
+.productionOfMetalStructures_Data_left_bottom p,
+.productionOfMetalStructures_Data_left_up li,
+.productionOfMetalStructures_Data_left_bottom li,
+.productionOfMetalStructures_Data_center_up p,
+.productionOfMetalStructures_Data_center_up li,
+.productionOfMetalStructures_Data_center_bottom p,
+.productionOfMetalStructures_Data_center_bottom li,
+.productionOfMetalStructures_Data_right_up p,
+.productionOfMetalStructures_Data_right_up li,
+.productionOfMetalStructures_Data_right_bottom p,
+.productionOfMetalStructures_Data_right_bottom li{
+    color:#FFFFFF;
+    font-size: 12px; 
+    font-weight: 400;
+    margin: 0;
+}
+
+.productionOfMetalStructures_Data_left_up{
+    margin-bottom: 45px;
+}
+
+.productionOfMetalStructures_Data_center_up, 
+.productionOfMetalStructures_Data_right_up{
+    margin-bottom: 29px;
+}
+
+.productionOfMetalStructures_Data_left_up li,
+.productionOfMetalStructures_Data_left_bottom li,
+.productionOfMetalStructures_Data_center_up li,
+.productionOfMetalStructures_Data_center_bottom li
+.productionOfMetalStructures_Data_center_right li,
+.productionOfMetalStructures_Data_center_right li{
+    margin-left: 5px;
+}
+
+.examplesOfWorks h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.examplesOfWorks {
+    margin-bottom: 170px;
+}
+
+.examplesOfWorksData{
+    display: flex;
+}
+
+.examplesOfWorksData_left{
+    flex: 35%;
+}
+
+.examplesOfWorksData_right{
+    flex: 65%;
+}
+
+.examplesOfWorksData_left, .examplesOfWorksData_right{
+    list-style-type: none;
+}
+
+.examplesOfWorksData_left a,
+.examplesOfWorksData_right a{
+    color:#FFFFFF;
+    font-size: 16px; 
+    font-weight: 600;
+    margin: 0;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.image_a h1{
+    color:#FFFFFF;
+    font-size: 28px; 
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.FoundationWorks,
+.InstallationOfMetalStructures,
+.InstallationOfMetalStructures,
+.InstallationOfTanks,
+.InstallationOfTechnologicalPipelines,
+.FacadeAndExteriorWorks,
+.RoofingWorks,
+.ReconstructionAndDismantlingWorks,
+.Landscaping,
+.EngineeringСommunications,
+.FinishingWorks {
+    display: none;
+}
+
+
+.FoundationWorksImage,
+.InstallationOfMetalStructuresImage,
+.InstallationOfMetalStructuresImage,
+.InstallationOfTanksImage,
+.InstallationOfTechnologicalPipelinesImage,
+.FacadeAndExteriorWorksImage,
+.RoofingWorksImage,
+.ReconstructionAndDismantlingWorksImage,
+.LandscapingImage,
+.EngineeringСommunicationsImage,
+.FinishingWorksImage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 105px;
+}
+
+.FoundationWorksImage img,
+.InstallationOfMetalStructuresImage img,
+.InstallationOfMetalStructuresImage img,
+.InstallationOfTanksImage img,
+.InstallationOfTechnologicalPipelinesImage img,
+.FacadeAndExteriorWorksImage img,
+.RoofingWorksImage img,
+.ReconstructionAndDismantlingWorksImage img,
+.LandscapingImage img,
+.EngineeringСommunicationsImage img,
+.FinishingWorksImage img {
+    flex: calc((100% - 300px) / 4);
+    width: calc((100% - 300px) / 4);
+    margin: 0 50px;
+    margin-bottom: 25px;
+}
+
+.FoundationWorksImage img:nth-child(4n-3),
+.InstallationOfMetalStructuresImage img:nth-child(4n-3),
+.InstallationOfMetalStructuresImage img:nth-child(4n-3),
+.InstallationOfTanksImage img:nth-child(4n-3),
+.InstallationOfTechnologicalPipelinesImage img:nth-child(4n-3),
+.FacadeAndExteriorWorksImage img:nth-child(4n-3),
+.RoofingWorksImage img:nth-child(4n-3),
+.ReconstructionAndDismantlingWorksImage img:nth-child(4n-3),
+.LandscapingImage img:nth-child(4n-3),
+.EngineeringСommunicationsImage img:nth-child(4n-3),
+.FinishingWorksImage img:nth-child(4n-3){
+    margin-left: 0px;
+}
+
+.FoundationWorksImage img:nth-child(4n),
+.InstallationOfMetalStructuresImage img:nth-child(4n),
+.InstallationOfMetalStructuresImage img:nth-child(4n),
+.InstallationOfTanksImage img:nth-child(4n),
+.InstallationOfTechnologicalPipelinesImage img:nth-child(4n),
+.FacadeAndExteriorWorksImage img:nth-child(4n),
+.RoofingWorksImage img:nth-child(4n),
+.ReconstructionAndDismantlingWorksImage img:nth-child(4n),
+.LandscapingImage img:nth-child(4n),
+.EngineeringСommunicationsImage img:nth-child(4n),
+.FinishingWorksImage img:nth-child(4n){
+    margin-right: 0px;
+}
+
+.examplesOfWorksData .toggle-link {
+    cursor: pointer;
+}
+
