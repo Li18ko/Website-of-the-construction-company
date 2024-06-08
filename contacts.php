@@ -32,6 +32,7 @@
                         <p>+7 (4912) 51-61-56 </p>
                         <p>zakaz@geomtsk.ru </p>
                         <p>geometry062@gmail.com </p>
+                        <p>62geometry@gmail.com </p>
                         <p>www.(название сайта)</p>
                     </div>
                     <div class="contacts_up_left_bottom_right">

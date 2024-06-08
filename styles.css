@@ -527,7 +527,7 @@ footer{
 }
 
 .center_footer_left{
-    flex: 35%; 
+    flex: 37%; 
     margin: 0 2%;
 }
 
@@ -537,7 +537,7 @@ footer{
 }
 
 .center_footer_right{
-    flex: 40%; 
+    flex: 38%; 
     margin: 0 2%;
 }
 
@@ -660,47 +660,28 @@ footer{
 .designing {
     margin-top: 65px;
     margin-bottom: 70px;
-}
-
-.designing_up{
-    margin-bottom: 40px;
-}
-
-.designing_up img{
-    width: 100%;
-    height: auto;
-}
-
-.designing_bottom{
     display: flex;
 }
 
-.designing_bottom_left, .designing_bottom_right{
-    flex: 1 ;
+.designing_left{
+    margin-right: 26px;
+    flex: calc(55% - 13px);
 }
 
-.designing_bottom_left p{
+.designing_left img{
+    width: 100%;    
+    height: auto;
+}
+
+.designing_right {
+    flex: calc(45% - 13px);
+}
+
+.designing_right p{
     color: #FFFFFF;
     font-size: 12px; 
     font-weight: 400;
     margin: 0 auto;
-}
-
-.designing_bottom_right {
-    display: flex;
-}
-
-.designing_bottom_right_left {
-    flex: 60%;
-}
-
-.designing_bottom_right_right {
-    flex: 40%;
-}
-
-.designing_bottom_right_left img, .designing_bottom_right_right img{
-    width: 100%;
-    height: 100%;
 }
 
 .construction {
@@ -839,25 +820,12 @@ footer{
 }
 
 .examplesOfWorksData{
-    display: flex;
-}
-
-.examplesOfWorksData_left{
-    flex: 35%;
-}
-
-.examplesOfWorksData_right{
-    flex: 65%;
-}
-
-.examplesOfWorksData_left, .examplesOfWorksData_right{
     list-style-type: none;
 }
 
-.examplesOfWorksData_left a,
-.examplesOfWorksData_right a{
+.examplesOfWorksData a {
     color:#FFFFFF;
-    font-size: 16px; 
+    font-size: 20px; 
     font-weight: 600;
     margin: 0;
     text-decoration: none;
@@ -865,17 +833,26 @@ footer{
     margin-bottom: 15px;
 }
 
-.image_a h1{
-    color:#FFFFFF;
-    font-size: 28px; 
-    font-weight: 700;
-    margin: 0;
-    margin-bottom: 60px;
+.toggle-link {
+    display: flex;
+    align-items: center;
+}
+
+.toggle-link .icon {
+    width: 10px; 
+    height: 10px;
+    margin-right: 4px; 
+    transition: transform 0.3s ease;
+    margin-bottom: 2px;
+}
+
+.toggle-link.active .icon {
+    transform: rotate(90deg);
 }
 
 .FoundationWorks,
 .InstallationOfMetalStructures,
-.InstallationOfMetalStructures,
+.ManufactureAndInstallationOfSilosRVS_CSG,
 .InstallationOfTanks,
 .InstallationOfTechnologicalPipelines,
 .FacadeAndExteriorWorks,
@@ -887,10 +864,24 @@ footer{
     display: none;
 }
 
+.FoundationWorks.active,
+.InstallationOfMetalStructures.active,
+.ManufactureAndInstallationOfSilosRVS_CSG.active,
+.InstallationOfTanks.active,
+.InstallationOfTechnologicalPipelines.active,
+.FacadeAndExteriorWorks.active,
+.RoofingWorks.active,
+.ReconstructionAndDismantlingWorks.active,
+.Landscaping.active,
+.EngineeringСommunications.active,
+.FinishingWorks.active {
+    display: block;
+}
+
 
 .FoundationWorksImage,
 .InstallationOfMetalStructuresImage,
-.InstallationOfMetalStructuresImage,
+.ManufactureAndInstallationOfSilosRVS_CSGImage,
 .InstallationOfTanksImage,
 .InstallationOfTechnologicalPipelinesImage,
 .FacadeAndExteriorWorksImage,
@@ -899,15 +890,16 @@ footer{
 .LandscapingImage,
 .EngineeringСommunicationsImage,
 .FinishingWorksImage {
+    margin-top: 60px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 105px;
+    margin-bottom: 100px;
 }
 
 .FoundationWorksImage img,
 .InstallationOfMetalStructuresImage img,
-.InstallationOfMetalStructuresImage img,
+.ManufactureAndInstallationOfSilosRVS_CSGImage img,
 .InstallationOfTanksImage img,
 .InstallationOfTechnologicalPipelinesImage img,
 .FacadeAndExteriorWorksImage img,
@@ -924,7 +916,7 @@ footer{
 
 .FoundationWorksImage img:nth-child(4n-3),
 .InstallationOfMetalStructuresImage img:nth-child(4n-3),
-.InstallationOfMetalStructuresImage img:nth-child(4n-3),
+.ManufactureAndInstallationOfSilosRVS_CSGImage img:nth-child(4n-3),
 .InstallationOfTanksImage img:nth-child(4n-3),
 .InstallationOfTechnologicalPipelinesImage img:nth-child(4n-3),
 .FacadeAndExteriorWorksImage img:nth-child(4n-3),
@@ -938,7 +930,7 @@ footer{
 
 .FoundationWorksImage img:nth-child(4n),
 .InstallationOfMetalStructuresImage img:nth-child(4n),
-.InstallationOfMetalStructuresImage img:nth-child(4n),
+.ManufactureAndInstallationOfSilosRVS_CSGImage img:nth-child(4n),
 .InstallationOfTanksImage img:nth-child(4n),
 .InstallationOfTechnologicalPipelinesImage img:nth-child(4n),
 .FacadeAndExteriorWorksImage img:nth-child(4n),
@@ -954,3 +946,120 @@ footer{
     cursor: pointer;
 }
 
+@media screen and (min-width: 2000px) {
+    .center a {
+        font-size: 20px; 
+    }
+    
+    .right p {
+        font-size: 20px; 
+    }
+
+    .center_img_left_up_left p {
+        font-size: 18px; 
+    }
+
+    .center_img_left_bottom_up_right p {
+        font-size: 18px; 
+    }
+
+    .center_img_right_up_right_up_left p {
+        font-size: 18px; 
+    }
+
+    .center_img_right_bottom_left p {
+        font-size: 18px; 
+    }
+
+    .thankYouLetters h1{
+        font-size: 32px; 
+    }
+
+    .weAreBuilding h1{
+        font-size: 32px; 
+    }
+    
+    .weAreBuildingDataListLeftUp p, .weAreBuildingDataListLeftUp li,
+    .weAreBuildingDataListLeftBottom p, .weAreBuildingDataListLeftBottom li,
+    .weAreBuildingDataListRightUp p, .weAreBuildingDataListRightUp li,
+    .weAreBuildingDataListRightCenter p, .weAreBuildingDataListRightCenter li,
+    .weAreBuildingDataListRightBottom p, .weAreBuildingDataListRightBottom li {
+        font-size: 16px; 
+    }
+
+    .center_footer_left p {
+        font-size: 15px; 
+    }
+
+    .center_footer_center p {
+        font-size: 16px;
+    }
+
+    .center_footer_right p {
+        font-size: 16px; 
+    }
+
+    .contacts_up_left_up p {
+        font-size: 20px; 
+    }
+    
+    .contacts_up_left_bottom p {
+        font-size: 16px; 
+    }
+
+    .jobOpenings h1{
+        font-size: 32px; 
+    }
+
+    .jobOpenings_Data_left_up p, .jobOpenings_Data_right_up p, 
+    .jobOpenings_Data_right_bottom p, .jobOpenings_Data_left_up li,
+    .jobOpenings_Data_left_bottom p, .jobOpenings_Data_left_bottom li{
+        font-size: 16px; 
+    }
+
+    .designing_right p{
+        font-size: 16px; 
+    }
+
+    .constructionAndInstallationWorks_left h1{
+        font-size: 32px;
+    }
+
+    .constructionAndInstallationWorks_left_Data_left_up p, .constructionAndInstallationWorks_left_Data_left_bottom p,
+    .constructionAndInstallationWorks_left_Data_left_up li, .constructionAndInstallationWorks_left_Data_left_bottom li,
+    .constructionAndInstallationWorks_left_Data_right_up p, .constructionAndInstallationWorks_left_Data_right_bottom p,
+    .constructionAndInstallationWorks_left_Data_right_up li, .constructionAndInstallationWorks_left_Data_right_bottom li{
+        font-size: 16px;
+    }
+
+    .productionOfMetalStructures h1{
+        font-size: 32px;
+    }
+
+    .productionOfMetalStructures_Data_left_up p,
+    .productionOfMetalStructures_Data_left_bottom p,
+    .productionOfMetalStructures_Data_left_up li,
+    .productionOfMetalStructures_Data_left_bottom li,
+    .productionOfMetalStructures_Data_center_up p,
+    .productionOfMetalStructures_Data_center_up li,
+    .productionOfMetalStructures_Data_center_bottom p,
+    .productionOfMetalStructures_Data_center_bottom li,
+    .productionOfMetalStructures_Data_right_up p,
+    .productionOfMetalStructures_Data_right_up li,
+    .productionOfMetalStructures_Data_right_bottom p,
+    .productionOfMetalStructures_Data_right_bottom li{
+        font-size: 16px; 
+    }
+
+    .examplesOfWorks h1{
+        font-size: 32px;
+    }
+
+    .examplesOfWorksData a {
+        font-size: 24px;
+    }
+
+    .black {
+        height: 127px;
+    }
+}

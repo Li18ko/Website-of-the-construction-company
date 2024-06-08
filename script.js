@@ -1,25 +1,31 @@
-const toggleLinks = document.querySelectorAll('.toggle-link');
+document.addEventListener('DOMContentLoaded', function() {
+    const toggleLinks = document.querySelectorAll('.toggle-link');
 
-toggleLinks.forEach(link => {
-    link.addEventListener('click', function(event) {
-        event.preventDefault();
-        const targetId = this.getAttribute('data-target');
-        const targetBlock = document.querySelector('.' + targetId);
+    toggleLinks.forEach(link => {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            const targetId = this.getAttribute('data-target');
+            const targetBlock = document.querySelector('.' + targetId);
 
-        if (targetBlock.style.display === 'none') {
-            targetBlock.style.display = 'block';
-        } else {
-            targetBlock.style.display = 'none';
-        }
+            const computedStyle = window.getComputedStyle(targetBlock);
+            const display = computedStyle.getPropertyValue('display');
+
+            if (display === 'none') {
+                targetBlock.style.display = 'block';
+            } else {
+                targetBlock.style.display = 'none';
+            }
+
+            this.classList.toggle('active');
+            targetBlock.classList.toggle('active');
+        });
     });
-});
 
-document.addEventListener("DOMContentLoaded", function () {
     let lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
 
     if ("IntersectionObserver" in window) {
-        let lazyImageObserver = new IntersectionObserver(function (entries, observer) {
-            entries.forEach(function (entry) {
+        let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(function(entry) {
                 if (entry.isIntersecting) {
                     let lazyImage = entry.target;
                     lazyImage.src = lazyImage.dataset.src;
@@ -29,12 +35,11 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         });
 
-        lazyImages.forEach(function (lazyImage) {
+        lazyImages.forEach(function(lazyImage) {
             lazyImageObserver.observe(lazyImage);
         });
     } else {
-        // Если IntersectionObserver не поддерживается, загружаем изображения сразу
-        lazyImages.forEach(function (lazyImage) {
+        lazyImages.forEach(function(lazyImage) {
             lazyImage.src = lazyImage.dataset.src;
             lazyImage.classList.remove("lazy");
         });

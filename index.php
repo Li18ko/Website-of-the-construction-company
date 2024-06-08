@@ -17,10 +17,10 @@
     <main>
       <div class="image">
         <div class="image1">
-          <img src="/image/image 4.png" alt="Картинка стройки" loading="lazy" >
-          <img src="/image/image 5.png" alt="Картинка стройки" loading="lazy" >
-          <img src="/image/image 6.png" alt="Картинка стройки" loading="lazy" >
-          <img src="/image/image 47.png" alt="Картинка стройки" loading="lazy" >
+          <img src="image/image 4.png" alt="Картинка стройки" loading="lazy" >
+          <img src="image/image 5.png" alt="Картинка стройки" loading="lazy" >
+          <img src="image/image 6.png" alt="Картинка стройки" loading="lazy" >
+          <img src="image/image 47.png" alt="Картинка стройки" loading="lazy" >
         </div>
 
         <div class="center_img">
@@ -94,21 +94,21 @@
         </div>
 
         <div class="image1">
-          <img src="/image/image 7.png" loading="lazy" alt="Картинка стройки">
-          <img src="/image/image 8.png" loading="lazy" alt="Картинка стройки">
-          <img src="/image/image 9.png" loading="lazy" alt="Картинка стройки">
-          <img src="/image/image 45.png" loading="lazy" alt="Картинка стройки">
+          <img src="image/image 7.png" loading="lazy" alt="Картинка стройки">
+          <img src="image/image 8.png" loading="lazy" alt="Картинка стройки">
+          <img src="image/image 9.png" loading="lazy" alt="Картинка стройки">
+          <img src="image/image 45.png" loading="lazy" alt="Картинка стройки">
         </div>
       </div>
 
       <div class="thankYouLetters">
         <h1>Благодарственные письма</h1>
         <div class="thankYouLettersImage">
-          <img src="/image/Отзыв КРЗ-1 1.png" loading="lazy" alt="Отзыв КРЗ">
-          <img src="/image/ГазпромНефть-1 1.png" loading="lazy" alt="ГазпромНефть">
-          <img src="/image/Благодарственные письма Альянс НХ-1 1.png" loading="lazy" alt="Благодарственные письма Альянс НХ-1">
-          <img src="/image/Благодарственное письмо БШФ-1 1.png" loading="lazy" alt="Благодарственное письмо БШФ-1">
-          <img src="/image/Благодарственные письма Альянс НХ-2 1.png" loading="lazy" alt="Благодарственные письма Альянс НХ-2">
+          <img src="image/Отзыв КРЗ-1 1.png" loading="lazy" alt="Отзыв КРЗ">
+          <img src="image/ГазпромНефть-1 1.png" loading="lazy" alt="ГазпромНефть">
+          <img src="image/Благодарственные письма Альянс НХ-1 1.png" loading="lazy" alt="Благодарственные письма Альянс НХ-1">
+          <img src="image/Благодарственное письмо БШФ-1 1.png" loading="lazy" alt="Благодарственное письмо БШФ-1">
+          <img src="image/Благодарственные письма Альянс НХ-2 1.png" loading="lazy" alt="Благодарственные письма Альянс НХ-2">
         </div>
       </div>
 
@@ -176,18 +176,18 @@
           <div class="weAreBuildingDataImage">
             <div class="weAreBuildingDataImageLeft">
               <div class="weAreBuildingDataImageLeftUp">
-                <img src="/image/image 53.png" loading="lazy" alt="Картинка стройки">
+                <img src="image/image 53.png" loading="lazy" alt="Картинка стройки">
               </div>
               <div class="weAreBuildingDataImageLeftBottom">
-                <img src="/image/image 59.png" loading="lazy" alt="Картинка стройки">
+                <img src="image/image 59.png" loading="lazy" alt="Картинка стройки">
               </div>
             </div>
             <div class="weAreBuildingDataImageRight">
               <div class="weAreBuildingDataImageRightUp">
-                <img src="/image/image 108.png" loading="lazy" alt="Картинка стройки">
+                <img src="image/image 108.png" loading="lazy" alt="Картинка стройки">
               </div>
               <div class="weAreBuildingDataImageRightBottom">
-                <img src="/image/image 94.png" loading="lazy" alt="Картинка стройки">
+                <img src="image/image 94.png" loading="lazy" alt="Картинка стройки">
               </div>
             </div>
           </div>
