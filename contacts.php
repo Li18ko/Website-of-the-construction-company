@@ -20,6 +20,7 @@
             <div class="contacts_up_left">
                 <div class="contacts_up_left_up">
                     <p>Наш адрес <br>
+                    <br>
                     Юридический: 390048 Россия, г. Рязань, <br>
                     ул. Зубковой, д. 21, кв. 44 <br>
                     Фактический: 390044 Россия, г. Рязань, <br>
@@ -33,7 +34,7 @@
                         <p>zakaz@geomtsk.ru </p>
                         <p>geometry062@gmail.com </p>
                         <p>62geometry@gmail.com </p>
-                        <p>www.(название сайта)</p>
+                        <p>http://lizakornee.temp.swtest.ru/ <br> ConstructionSite/</p>
                     </div>
                     <div class="contacts_up_left_bottom_right">
                         <p>Наши реквизиты </p>

@@ -444,6 +444,7 @@ main {
 
 .weAreBuildingDataImageLeft, .weAreBuildingDataImageRight{
     flex: calc(100% - 10px);
+    width: calc(100% - 10px);
     display: flex;
     flex-direction: column;
 }
@@ -527,12 +528,12 @@ footer{
 }
 
 .center_footer_left{
-    flex: 37%; 
+    flex: 38%; 
     margin: 0 2%;
 }
 
 .center_footer_center{
-    flex: 25%; 
+    flex: 24%; 
     margin: 0 2%;
 }
 
@@ -599,12 +600,12 @@ footer{
 }
 
 .contacts_up_left_bottom_left{
-    flex: 40%;
+    flex: 45%;
 }
 
 .contacts_up_left_bottom_right{
-    flex: 60%;
-    margin-top: 30.4px;
+    flex: 55%;
+    margin-top: 60.8px;
 }
 
 .contacts_up_right{
@@ -737,7 +738,8 @@ footer{
     margin-bottom: 75px;
 }
 
-.constructionAndInstallationWorks_left_Data_right_up li, .constructionAndInstallationWorks_left_Data_left_up li{
+.constructionAndInstallationWorks_left_Data_right_up li, .constructionAndInstallationWorks_left_Data_left_up li,
+.constructionAndInstallationWorks_left_Data_right_bottom li, .constructionAndInstallationWorks_left_Data_left_bottom li{
     margin-left: 5px;
 }
 
@@ -801,9 +803,9 @@ footer{
 .productionOfMetalStructures_Data_left_up li,
 .productionOfMetalStructures_Data_left_bottom li,
 .productionOfMetalStructures_Data_center_up li,
-.productionOfMetalStructures_Data_center_bottom li
-.productionOfMetalStructures_Data_center_right li,
-.productionOfMetalStructures_Data_center_right li{
+.productionOfMetalStructures_Data_center_bottom li,
+.productionOfMetalStructures_Data_right_up li,
+.productionOfMetalStructures_Data_right_bottom li{
     margin-left: 5px;
 }
 
@@ -895,6 +897,7 @@ footer{
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 100px;
+    gap: 6%;
 }
 
 .FoundationWorksImage img,
@@ -908,9 +911,8 @@ footer{
 .LandscapingImage img,
 .EngineeringСommunicationsImage img,
 .FinishingWorksImage img {
-    flex: calc((100% - 300px) / 4);
-    width: calc((100% - 300px) / 4);
-    margin: 0 50px;
+    flex: 1 1 calc(25% - 6%);
+    width: calc(25% - 6%);
     margin-bottom: 25px;
 }
 
@@ -946,7 +948,12 @@ footer{
     cursor: pointer;
 }
 
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 1900px) {
+    .designing {
+        margin-top: 170px;
+        margin-bottom: 170px;
+    }
+
     .center a {
         font-size: 20px; 
     }
@@ -956,19 +963,19 @@ footer{
     }
 
     .center_img_left_up_left p {
-        font-size: 18px; 
+        font-size: 16px; 
     }
 
     .center_img_left_bottom_up_right p {
-        font-size: 18px; 
+        font-size: 16px; 
     }
 
     .center_img_right_up_right_up_left p {
-        font-size: 18px; 
+        font-size: 16px; 
     }
 
     .center_img_right_bottom_left p {
-        font-size: 18px; 
+        font-size: 16px; 
     }
 
     .thankYouLetters h1{
@@ -1062,4 +1069,68 @@ footer{
     .black {
         height: 127px;
     }
+
+    .contacts_up_left_bottom_right{
+        margin-top: 76.8px;
+    }
+
+    .weAreBuildingDataImage{
+        height: 580px;
+        display: flex;
+    }
+    .weAreBuildingDataImageLeftUp{
+        flex: calc(100% - 320px - 25px);
+        height: calc(100% - 320px - 25px);
+    }
+    
+    .weAreBuildingDataImageLeftBottom{
+        flex: calc(100% - 235px - 25px);
+        height: calc(100% - 235px - 25px);
+    }
+
+    .weAreBuildingDataImageRightUp{
+        flex: calc(100% - 235px - 25px);
+        height: calc(100% - 235px - 25px);
+    }
+    
+    .weAreBuildingDataImageRightBottom{
+        flex: calc(100% - 320px - 25px);
+        height: calc(100% - 320px - 25px);
+    }
+
+    .red {
+        list-style-type: none;
+        padding-left: 22.4px;
+    }
+}
+
+@-moz-document url-prefix() {
+    .red {
+        padding-left: 0px;
+    }
+
+    .weAreBuildingDataListLeftUp li, .weAreBuildingDataListLeftBottom li,
+    .weAreBuildingDataListRightUp li, .weAreBuildingDataListRightCenter li,
+    .weAreBuildingDataListRightBottom li {
+        margin-left: 16px;
+    }
+
+    .jobOpenings_Data_left_up li, .jobOpenings_Data_left_bottom li{
+        margin-left: 16px;
+    }
+
+    .constructionAndInstallationWorks_left_Data_right_up li, .constructionAndInstallationWorks_left_Data_left_up li,
+    .constructionAndInstallationWorks_left_Data_right_bottom li, .constructionAndInstallationWorks_left_Data_left_bottom li {
+        margin-left: 16px;
+    }
+
+    .productionOfMetalStructures_Data_left_up li,
+    .productionOfMetalStructures_Data_left_bottom li,
+    .productionOfMetalStructures_Data_center_up li,
+    .productionOfMetalStructures_Data_center_bottom li,
+    .productionOfMetalStructures_Data_right_up li,
+    .productionOfMetalStructures_Data_right_bottom li{
+        margin-left: 16px;
+    }
+
 }
